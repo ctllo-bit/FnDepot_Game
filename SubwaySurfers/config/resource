@@ -1,0 +1,28 @@
+{
+    "data-share":
+    {
+        "shares":
+        [
+            {
+                "name": "codeEditor",
+                "permission":
+                {
+                    "rw":
+                    [
+                        "codeEditor"
+                    ]
+                }
+            },
+            {
+                "name": "codeEditor/data",
+                "permission":
+                {
+                    "rw":
+                    [
+                        "codeEditor"
+                    ]
+                }
+            }
+        ]
+    }
+}

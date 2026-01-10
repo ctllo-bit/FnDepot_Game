@@ -1,0 +1,8 @@
+{
+    "defaults":
+    {
+        "run-as": "package"
+    },
+    "username": "vscode-editor",
+    "groupname": "vscode-editor"
+}

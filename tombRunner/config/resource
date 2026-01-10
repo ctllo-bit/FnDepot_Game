@@ -4,22 +4,22 @@
         "shares":
         [
             {
-                "name": "subwaySurfers",
+                "name": "tombRunner",
                 "permission":
                 {
                     "rw":
                     [
-                        "subwaySurfers"
+                        "tombRunner"
                     ]
                 }
             },
             {
-                "name": "subwaySurfers/data",
+                "name": "tombRunner/data",
                 "permission":
                 {
                     "rw":
                     [
-                        "subwaySurfers"
+                        "tombRunner"
                     ]
                 }
             }

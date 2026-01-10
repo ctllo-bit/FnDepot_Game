@@ -1,0 +1,19 @@
+appname               = tombRunner
+version               = 1.0.0
+display_name          = 古墓丽影
+desc                  = `<div>你准备好踏上危险的冒险之旅了吗？你准备好面对你的命运了吗？<span>
+那就鼓起勇气吧，因为你将面临无数的挑战，只有奇迹才能让你活下来。你将有机会扮演你最喜欢的电影角色，不过在本游戏中，角色的名字略有改动。无论你选择哪个角色，你都需要不断前进，朝着正确的方向前进，收集宝藏，避开障碍。努力在任何情况下生存下来，赚取大量金钱，并赢得荣耀。
+</span>
+</br>
+<span>
+游戏控制
+手机端：触屏控制
+电脑端：WASD键或方向键控制移动，按Ees暂停再按返回</sapn>
+`
+
+arch                  = x86_64
+source                = thirdparty
+maintainer            = 唔知喔
+distributor           = ctllo-bit
+desktop_uidir         = ui
+desktop_applaunchname = tombRunner.Application

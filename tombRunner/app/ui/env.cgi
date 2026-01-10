@@ -14,7 +14,7 @@ cat <<EOF
 <body>
     <script>
       // 目标URL
-      const targetURL ='https://g2.igroutka.ru/games/164/2PdJBGKOYzQD7nXq/3/subway_surfers_winter_holiday/'
+      const targetURL ='https://m.igroutka.ru/ni/357/igra-begushchij-po-grobnitsam/'
 
       // 尝试获取当前父级 iframe 元素
       let iframe = window.frameElement;
@@ -29,7 +29,7 @@ cat <<EOF
         iframe.setAttribute("allowfullscreen", "true");//全屏
       }else{
           //飞牛APP因跨源（cross-origin)获取不了，则直接跳转
-          window.open(targetURL, '_top');
+          window.top.location.href= targetURL;
       }
     </script>
 </body>

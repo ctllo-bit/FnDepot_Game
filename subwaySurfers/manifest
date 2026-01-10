@@ -1,0 +1,18 @@
+appname               = subwaySurfers
+version               = 1.0.0
+display_name          = 地铁跑酷
+desc                  = `<div>地铁跑酷玩家们正以他们惯常的方式度过冬日假期——前往地铁站。<span>
+冬日的到来让地铁站银装素裹，为冒险增添了更多刺激，也营造了浓厚的节日氛围，所有地铁跑酷系列的粉丝都可以加入这场冬日地铁冒险。
+</span></div>
+
+<div>游戏控制
+<span>手机端：触屏控制</sapn>
+<span>电脑端：键盘WASD键或方向键控制，空格出滑板，按Ees暂停再按返回</sapn>
+</div>`
+
+arch                  = x86_64
+source                = thirdparty
+maintainer            = KILOO & SYBO
+distributor           = ctllo-bit
+desktop_uidir         = ui
+desktop_applaunchname = subwaySurfers.Application

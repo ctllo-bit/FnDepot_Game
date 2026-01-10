@@ -1,0 +1,28 @@
+{
+    "data-share":
+    {
+        "shares":
+        [
+            {
+                "name": "subwaySurfers",
+                "permission":
+                {
+                    "rw":
+                    [
+                        "subwaySurfers"
+                    ]
+                }
+            },
+            {
+                "name": "subwaySurfers/data",
+                "permission":
+                {
+                    "rw":
+                    [
+                        "subwaySurfers"
+                    ]
+                }
+            }
+        ]
+    }
+}

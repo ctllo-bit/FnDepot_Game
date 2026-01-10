@@ -4,22 +4,22 @@
         "shares":
         [
             {
-                "name": "codeEditor",
+                "name": "subwaySurfers",
                 "permission":
                 {
                     "rw":
                     [
-                        "codeEditor"
+                        "subwaySurfers"
                     ]
                 }
             },
             {
-                "name": "codeEditor/data",
+                "name": "subwaySurfers/data",
                 "permission":
                 {
                     "rw":
                     [
-                        "codeEditor"
+                        "subwaySurfers"
                     ]
                 }
             }

@@ -1,4 +1,4 @@
-appname               = codeEditor
+appname               = subwaySurfers
 version               = 1.0.0
 display_name          = 地铁跑酷
 desc                  = `<div>地铁跑酷玩家们正以他们惯常的方式度过冬日假期——前往地铁站。<span>
@@ -7,7 +7,7 @@ desc                  = `<div>地铁跑酷玩家们正以他们惯常的方式�
 
 <div>游戏控制
 <span>手机端：触屏控制</sapn>
-<span>电脑端：键盘WASD键或方向键控制，空格出滑板，按Ees暂停</sapn>
+<span>电脑端：键盘WASD键或方向键控制，空格出滑板，按Ees暂停再按返回</sapn>
 </div>`
 
 arch                  = x86_64
@@ -15,4 +15,4 @@ source                = thirdparty
 maintainer            = KILOO & SYBO
 distributor           = ctllo-bit
 desktop_uidir         = ui
-desktop_applaunchname = codeEditor.Application
+desktop_applaunchname = subwaySurfers.Application

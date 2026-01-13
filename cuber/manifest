@@ -1,0 +1,18 @@
+appname               = cuber
+version               = 1.0.0
+display_name          = 魔方栈
+desc                  = `<div>优美而强大的网页魔方<span>
+地址: https://huazhechen.gitee.io/cuber</span>
+</br>
+</div>`
+
+arch                  = x86_64
+source                = thirdparty
+maintainer            = huazhechen
+maintainer_url        = https://gitee.com/huazhechen/cuber
+distributor           = ctllo-bit
+desktop_uidir         = ui
+desktop_applaunchname = cuber.Application
+
+
+

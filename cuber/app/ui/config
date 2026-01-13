@@ -1,0 +1,12 @@
+{
+    ".url": {
+        "cuber.Application": {
+            "title": "魔方栈",
+            "icon": "images/icon_{0}.png",
+            "type": "iframe",
+            "protocol": "http",
+            "url": "/cgi/ThirdParty/cuber/index.cgi/",
+            "allUsers": true
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "data-share":
+    {
+        "shares":
+        [
+            {
+                "name": "cuber",
+                "permission":
+                {
+                    "rw":
+                    [
+                        "cuber"
+                    ]
+                }
+            },
+            {
+                "name": "cuber/data",
+                "permission":
+                {
+                    "rw":
+                    [
+                        "cuber"
+                    ]
+                }
+            }
+        ]
+    }
+}

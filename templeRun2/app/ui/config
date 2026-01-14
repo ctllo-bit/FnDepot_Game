@@ -1,0 +1,13 @@
+{
+    ".url": {
+        "templeRun2.Application": {
+            "title": "神庙逃亡2",
+            "icon": "images/icon_{0}.png",
+            "type": "iframe",
+            "protocol": "http",
+            "url": "/cgi/ThirdParty/templeRun2/index.cgi/",
+            "allUsers": true
+        }
+    }
+}
+

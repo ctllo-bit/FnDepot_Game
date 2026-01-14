@@ -1,0 +1,23 @@
+appname               = templeRun2
+version               = 1.0.0
+display_name          = 神庙逃亡2
+desc                  = `<div>直接在网页浏览器中畅玩 Temple Run 2，无需下载即刻体验 Temple Run 2 带来的肾上腺素飙升的快感。<span>
+✅灵敏的操控： 享受专为电脑优化的灵敏操控。
+✅高品质画面：沉浸于惊艳的画面和生动的环境之中。
+✅即刻畅玩：立即进入游戏，体验酣畅淋漓的冒险。
+
+免责声明
+本项目与 Temple Run 2 的开发商 Imangi Studios 没有任何关联。Temple Run 2 PC 版是一个粉丝制作的项目，仅用于教育和娱乐目的。
+
+游戏控制
+手机端：触屏控制，蓄满金币双击放技能
+电脑端：WASD键或方向键控制移动，蓄满金币空格放技能
+</span></div>`
+
+arch                  = x86_64
+source                = thirdparty
+maintainer            = rishabnotfound
+maintainer_url        = https://github.com/rishabnotfound/TempleRun2onPC
+distributor           = ctllo-bit
+desktop_uidir         = ui
+desktop_applaunchname = templeRun2.Application

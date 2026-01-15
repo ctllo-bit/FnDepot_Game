@@ -1,0 +1,19 @@
+appname               = pvz2-gardendless
+version               = 1.0.0
+display_name          = PvZ2 无花园
+desc                  = `<div>完全重制的全桌面平台PvZ2<span>
+
+概述
+PvZ2 Gardendless 是一款粉丝自制的《植物大战僵尸2》重制版，完全使用 Web 技术构建。
+作品由南Garden大佬、PvZ2爱好者社群自主发起并制作的同人衍生作品，非 Electronic Arts (EA) 或 PopCap Games 官方开发、授权或发行的产品。
+此 Docker 镜像可让您轻松地在所有桌面平台上部署和运行 PvZ2 Gardendless。
+
+</span></div>`
+
+arch                  = x86_64
+source                = thirdparty
+maintainer            = 南Garden
+maintainer_url        = https://pvzge.com/
+distributor           = ctllo-bit
+desktop_uidir         = ui
+desktop_applaunchname = pvz2-gardendless.Application

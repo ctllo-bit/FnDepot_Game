@@ -1,0 +1,15 @@
+version: "3.8"
+
+services:
+  pvzge:
+    image: gaozih/pvzge:latest
+    container_name: pvzge
+    restart: unless-stopped
+    ports:
+      - "8888:80"
+    environment:
+      - PUID=1000
+      - PGID=1001
+      - TZ=Asia/Shanghai
+    shm_size: "1gb"
+    network_mode: bridge

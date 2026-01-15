@@ -1,0 +1,8 @@
+{
+    "defaults":
+    {
+        "run-as": "package"
+    },
+    "username": "docker-pvz2-gardendless",
+    "groupname": "docker-pvz2-gardendless"
+}

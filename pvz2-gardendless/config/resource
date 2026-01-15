@@ -1,0 +1,38 @@
+{
+    "docker-project":
+    {
+        "projects":
+        [
+            {
+                "name": "pvz2-gardendless",
+                "path": "docker"
+            }
+        ]
+    },
+    "data-share":
+    {
+        "shares":
+        [
+            {
+                "name": "pvz2-gardendless",
+                "permission":
+                {
+                    "rw":
+                    [
+                        "docker-pvz2-gardendless"
+                    ]
+                }
+            },
+            {
+                "name": "pvz2-gardendless/data",
+                "permission":
+                {
+                    "rw":
+                    [
+                        "docker-pvz2-gardendless"
+                    ]
+                }
+            }
+        ]
+    }
+}

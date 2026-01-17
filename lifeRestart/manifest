@@ -1,0 +1,16 @@
+appname               = lifeRestart
+version               = 1.0.0
+display_name          = 人生重开模拟器
+desc                  = `<div>一款文字类网页游戏。<span>
+
+天赋抽取阶段：玩家从随机十个天赋中选取三个，不同天赋组合将影响后续人生轨迹。
+人生模拟阶段：系统根据初始属性（如颜值、智力等）生成随机事件，通过文字描述呈现升学、工作、婚姻等人生节点）。
+评价体系：角色死亡后依据生存时长、属性数值生成得分与总结评语。
+</span></div>`
+arch                  = x86_64
+source                = thirdparty
+maintainer            = VickScarlet
+maintainer_url        = https://github.com/VickScarlet/lifeRestart
+distributor           = ctllo-bit
+desktop_uidir         = ui
+desktop_applaunchname = lifeRestart.Application

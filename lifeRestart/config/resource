@@ -1,0 +1,28 @@
+{
+    "data-share":
+    {
+        "shares":
+        [
+            {
+                "name": "lifeRestart",
+                "permission":
+                {
+                    "rw":
+                    [
+                        "lifeRestart"
+                    ]
+                }
+            },
+            {
+                "name": "lifeRestart/data",
+                "permission":
+                {
+                    "rw":
+                    [
+                        "lifeRestart"
+                    ]
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "data-share":
+    {
+        "shares":
+        [
+            {
+                "name": "templeRun2",
+                "permission":
+                {
+                    "rw":
+                    [
+                        "templeRun2"
+                    ]
+                }
+            },
+            {
+                "name": "templeRun2/data",
+                "permission":
+                {
+                    "rw":
+                    [
+                        "templeRun2"
+                    ]
+                }
+            }
+        ]
+    }
+}

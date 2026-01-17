@@ -1,0 +1,18 @@
+appname               = templeRun2
+version               = 1.0.0
+display_name          = 神庙逃亡2
+desc                  = `<div><span>
+一位寻宝者得知一座古老神庙藏有宝藏后，潜入其中。他成功夺取了宝藏，但现在必须尽快离开神庙。
+因为神庙的守卫者已经得知了他的行踪，并派出一个伪装成猛兽的凶残恶魔追捕他。
+
+游戏控制
+手机端：触屏控制，蓄满金币双击放技能
+电脑端：WASD键或方向键控制移动，蓄满金币空格放技能
+</span></div>`
+
+arch                  = x86_64
+source                = thirdparty
+maintainer            = Imangi Studios
+distributor           = ctllo-bit
+desktop_uidir         = ui
+desktop_applaunchname = templeRun2.Application

@@ -1,0 +1,11 @@
+appname               = webcs
+version               = 1.0.0
+display_name          = 网页版CS1.6
+desc                  = 一个用浏览器也能在线玩CS。
+arch                  = all
+source                = thirdparty
+maintainer            = webcs
+maintainer_url        = https://webcs.xyz/
+distributor           = ctllo-bit
+desktop_uidir         = ui
+desktop_applaunchname = webcs.Application

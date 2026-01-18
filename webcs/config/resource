@@ -1,0 +1,28 @@
+{
+    "data-share":
+    {
+        "shares":
+        [
+            {
+                "name": "webcs",
+                "permission":
+                {
+                    "rw":
+                    [
+                        "webcs"
+                    ]
+                }
+            },
+            {
+                "name": "webcs/data",
+                "permission":
+                {
+                    "rw":
+                    [
+                        "webcs"
+                    ]
+                }
+            }
+        ]
+    }
+}
